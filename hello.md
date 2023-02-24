@@ -39,3 +39,9 @@ Git add
 ## Работа с картинками
 
 ![стая бомжей](https://sun9-87.userapi.com/impg/UTZopq4-LFkWENDr3bkGTitnh-fknEnebtq3Vg/wsTwBvnnu88.jpg?size=1280x906&quality=95&sign=2320bf0e42e78b808f29a81e6cd8afd7&c_uniq_tag=3-DtioHDfKlUHumCgKofXewkRHLXYIjkqV4e-wVOZ1Y&type=album)
+
+## Работа со списками
+
+* Список 1 
+* Список 2
+
